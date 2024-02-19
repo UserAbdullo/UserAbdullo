@@ -11,7 +11,7 @@
 <p align="left">
 <code><a href="https://codepen.io/userabdullo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="userabdullo" height="30" width="40" /></a></code>
 <code><a href="https://stackoverflow.com/users/userabdullo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="userabdullo" height="30" width="40" /></a></code>
-<code><a href="https://instagram.com/use_abdullo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="use_abdullo" height="30" width="40" /></a></code>
+<code><a href="https://instagram.com/user_abdullo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="use_abdullo" height="30" width="40" /></a></code>
 </p>
 
 <h3 align="left">Languages and Tools I work with:</h3>
