@@ -1,16 +1,20 @@
-<h2>Assalamu alaykum. <b>I am UserAbdullo<b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBia2F6d2NqdHBwOXQzd2lycXNpaTZna2NmaXY5dXprb2thdjkwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" alt="gif" width="30px"></h2><br>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBia2F6d2NqdHBwOXQzd2lycXNpaTZna2NmaXY5dXprb2thdjkwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" alt="gif" width="30px">I'm UserAbdullo</h1>
+<h3 align="center">, I am student. Now I learn Django framework</h3>
 
-<h3>I am Student</h3>
-<a href="https://t.me/genos_m08">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" alt="telegram logo" width="30px">
-</a>
-<br>
-<h3>Languages and tools I work with</h3>
+- 🔭 I’m currently working on **Django-sites**
 
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python rasmi" width="30px"></code>
+- 🌱 I’m currently learning **Frameworks, and etc.**
 
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html rasmi" width="30px"></code>
+- 💬 Ask me about **Python, django**
+- 📞 Contact with me: [@UserAbdullo](https://t.me/UserAbdullo)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<code><a href="https://codepen.io/userabdullo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="userabdullo" height="30" width="40" /></a></code>
+<code><a href="https://stackoverflow.com/users/userabdullo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="userabdullo" height="30" width="40" /></a></code>
+<code><a href="https://instagram.com/use_abdullo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="use_abdullo" height="30" width="40" /></a></code>
+</p>
 
-<code><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/css3-logo.png" alt="css rasmi" width="50px"></code>
-
--🏳️  How to reach me: [@UserAbdullo](https://t.me/UserAbdullo)
+<h3 align="left">Languages and Tools I work with:</h3>
+<p align="left"> 
+<span align="center"><code><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a></code><code><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></code></span> 
+<span align='left'><code> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></code>  <code><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a></code> <code><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></code></span> </p>
