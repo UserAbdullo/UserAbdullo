@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks, and etc.**
 
-- 💬 Ask me about **Python, django**
+- 💬 Ask me about **Javascript, Typescript**
 - 📞 Contact with me: [@UserAbdullo](https://t.me/UserAbdullo)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
